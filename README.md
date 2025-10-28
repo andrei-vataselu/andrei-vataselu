@@ -23,7 +23,7 @@ Since starting my tech journey in **December 2021**, I’ve built cloud-native s
 
 ### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
@@ -32,10 +32,17 @@ Since starting my tech journey in **December 2021**, I’ve built cloud-native s
 ### 🔬 Data, AI & Messaging
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark)
 ![Scikit-Learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat&logo=scikitlearn)
-![Azure Databricks](https://img.shields.io/badge/-Azure%20Databricks-E02020?style=flat&logo=databricks)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-FF9900?style=flat&logo=amazonaws)
+![Amazon SageMaker](https://img.shields.io/badge/-Amazon%20SageMaker-FF9900?style=flat&logo=amazonaws)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=awslambda)
+![Amazon EventBridge](https://img.shields.io/badge/-Amazon%20EventBridge-FF9900?style=flat&logo=amazonaws)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazons3)
+![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+
 
 ---
 
