@@ -42,7 +42,7 @@ Since starting my tech journey in **December 2021**, I’ve built cloud-native s
 ## 🏆 Notable Projects
 
 ### 🚗 **ConceptToCar – PLM System**  
-📌 [View GitHub Repo](https://github.com/vAndrewKarma/ConceptToCar)  
+📌 [View GitHub Repo](https://github.com/andrei-vataselu/ConceptToCar)  
 🏅 *3rd Place Winner – DRX-IT Innovation Contest 2025*
 
 Cloud-native lifecycle management platform for the automotive sector.  
@@ -53,8 +53,21 @@ Cloud-native lifecycle management platform for the automotive sector.
 
 ---
 
+### ⚙️ **Bitcoin Data And AI Pipeline**  
+📌 [View GitHub Repo](https://github.com/andrei-vataselu/btc-ml-end-to-end)
+
+Production-ready AWS data + ML pipeline for BTC/USD
+- Ingests OHLCV (1m) to S3, batches + mini-batches
+- Converts daily to partitioned Parquet for fast Athena queries
+- Daily data quality checks and reports
+- Trains a Random Forest volatility model with SageMaker
+- Automated retraining + endpoint updates
+- QuickSight dashboards for insights
+
+---
+
 ### ⚙️ **Express + TypeScript Starter Kit**  
-📌 [View GitHub Repo](https://github.com/vAndrewKarma/Typescript-Express-StarterKit)
+📌 [View GitHub Repo](https://github.com/andrei-vataselu/Typescript-Express-StarterKit)
 
 Production-ready API starter template  
 - Modular, secure Express.js backend with TypeScript  
@@ -67,13 +80,16 @@ Production-ready API starter template
 
 - **BSc Computer Science** *(in progress)* — Politehnica University of Bucharest  
 - **Udemy**  
-  - TensorFlow 2: Deep Learning & AI (2025)  
+  - TensorFlow 2: Deep Learning & AI (2024)  
   - ML A-Z: AI, Python & R + ChatGPT (2024)  
-  - Tailwind CSS (2024)  
+  - Tailwind CSS (2023)  
   - Microservices w/ Node.js & React (2023)  
 - **Oracle Academy**  
-  - PL/SQL Programming (2023)  
-  - Application Development Foundations (2023)
+  - PL/SQL Programming (2022)  
+  - Application Development Foundations (2022)
+- **AWS**
+  - Certified Cloud Practitioner (2025)
+  - AWS Certified Machine Learning Engineer - Associate (2025)
 
 ---
 
