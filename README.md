@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-Since starting my tech journey in **December 2021**, I’ve built cloud-native systems, production-ready APIs, and machine learning pipelines across platforms like **Google Cloud** and **Azure**. From RESTful backend development and Kubernetes-based infrastructure to building and deploying AI models, my focus is crafting **scalable, secure, and intelligent systems**.
+Since starting my tech journey in **December 2021**, I’ve built cloud-native systems, production-ready APIs, and machine learning pipelines across platforms like **Google Cloud** and **AWS**. From RESTful backend development and Kubernetes-based infrastructure to building and deploying AI models, my focus is crafting **scalable, secure, and intelligent systems**.
 
 ---
 
